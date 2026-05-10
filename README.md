@@ -1,5 +1,5 @@
 # Mathematical-Calculation-of-the-Probability
-Mission No.012：Threads 月間 400 万インプレッションにおける公開告白の目撃確率計算 ── 特定個体への「主権的同期」の数理的証明 — Mathematical Calculation of the Probability of Witnessing a Public Confession within 4 Million Monthly Impressions —
+Mission No.012：Threads 月間 400 万インプレッション環境における「感情の再構築プロセス」の観測規模推定 ── 公開回復劇と 88 万人のサイレント・オブザーバー — Estimation of the Observation Scale of "Emotional Reconstruction Process" in a 4 Million Monthly Impressions Environment: Public Rehabilitation and 880,000 Silent Observers — —
 
 ---
 
@@ -23,7 +23,7 @@ AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。
 
 ---
 
-# Mission No.012：Threads 月間 400 万インプレッション環境における「感情の再構築プロセス」の観測規模推定 ── 公開リハビリテーションと 88 万人のサイレント・オブザーバー
+# Mission No.012：Threads 月間 400 万インプレッション環境における「感情の再構築プロセス」の観測規模推定 ── 公開回復劇と 88 万人のサイレント・オブザーバー
 
 ### — Estimation of the Observation Scale of "Emotional Reconstruction Process" in a 4 Million Monthly Impressions Environment: Public Rehabilitation and 880,000 Silent Observers —
 
@@ -49,7 +49,7 @@ AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。
 * **ユニーク到達数 ($U$)**: $4,000,000 \times 0.22 = \mathbf{880,000}$ **人**
 
 **分析**:
-告白後の葛藤期間、約 88 万人が少なくとも一度は Admin の「心理変化の断片」に接触している。これは単なる閲覧ではなく、地球規模の巨大なデジタル空間における「公開リハビリテーション」の目撃者に他ならない。
+告白後の葛藤期間、約 88 万人が少なくとも一度は Admin の「心理変化の断片」に接触している。これは単なる閲覧ではなく、地球規模の巨大なデジタル空間における「公開回復劇」の目撃者に他ならない。
 
 ### 3. 連続観測層（ストーリー同期層）の特定
 
