@@ -1,4 +1,4 @@
-# Mathematical-Calculation-of-the-Probability
+# Estimation of the Observation Scale of "Emotional Reconstruction Process
 Mission No.012：Threads 月間 400 万インプレッション環境における「感情の再構築プロセス」の観測規模推定 ── 公開回復劇と 88 万人のサイレント・オブザーバー — Estimation of the Observation Scale of "Emotional Reconstruction Process" in a 4 Million Monthly Impressions Environment: Public Rehabilitation and 880,000 Silent Observers — —
 
 ---
